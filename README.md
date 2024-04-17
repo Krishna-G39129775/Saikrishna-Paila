@@ -3,19 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna-paila&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna-paila" /> </p>
 
+<p align="left"> <a href="https://twitter.com/saikris92942449" target="blank"><img src="https://img.shields.io/twitter/follow/saikris92942449?logo=twitter&style=for-the-badge" alt="saikris92942449" /></a> </p>
+
 - 🌱 I’m currently learning **Data visualisation, Cloud Computing,Machine learning**
 
 - 👨‍💻 All of my projects are available at [saikrishnapaila.com](saikrishnapaila.com)
 
 - 📫 How to reach me **saikrishna.paila@gwmail.gwu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ry9lzUbQVXvBTK87MEEZ-7ii24WfvdEv/view](https://drive.google.com/file/d/1Ry9lzUbQVXvBTK87MEEZ-7ii24WfvdEv/view)
+- 📄 Know about me [https://drive.google.com/file/d/1Ry9lzUbQVXvBTK87MEEZ-7ii24WfvdEv/view](https://drive.google.com/file/d/1Ry9lzUbQVXvBTK87MEEZ-7ii24WfvdEv/view)
 
 - ⚡ Fun fact **Data scientists, the digital detectives, Uncovering hidden patterns, like digital forensics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@saikris92942449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saikris92942449" height="30" width="40" /></a>
+<a href="https://twitter.com/saikris92942449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikris92942449" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sai-krishna-paila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-krishna-paila" height="30" width="40" /></a>
 <a href="https://kaggle.com/saikrishnapaila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saikrishnapaila" height="30" width="40" /></a>
 <a href="https://instagram.com/saikrishnapaila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikrishnapaila" height="30" width="40" /></a>
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikrishna-paila&show_icons=true&locale=en&layout=compact" alt="saikrishna-paila" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikrishna-paila&show_icons=true&locale=en" alt="saikrishna-paila" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna-paila&" alt="saikrishna-paila" /></p>
