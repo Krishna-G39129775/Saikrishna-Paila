@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna-paila&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna-paila" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikrishna-paila" alt="saikrishna-paila" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/saikris92942449" target="blank"><img src="https://img.shields.io/twitter/follow/saikris92942449?logo=twitter&style=for-the-badge" alt="saikris92942449" /></a> </p>
+
+- 🔭 I’m currently working on [Apple_Stock_predication](https://github.com/Saikrishna-Paila/Apple_stock_predication_using_LSTM-GRU-ARIMA)
 
 - 🌱 I’m currently learning **Data visualisation, Cloud Computing,Machine learning**
 
@@ -11,9 +15,9 @@
 
 - 📫 How to reach me **saikrishna.paila@gwmail.gwu.edu**
 
-- 📄 Know about me [https://drive.google.com/file/d/1Ry9lzUbQVXvBTK87MEEZ-7ii24WfvdEv/view](https://drive.google.com/file/d/1Ry9lzUbQVXvBTK87MEEZ-7ii24WfvdEv/view)
+- 📄 Know about me [https://drive.google.com/file/d/1BijTDQw7As69E-ECJL0FXShMyUopHOTP/view?usp=share_link](https://drive.google.com/file/d/1BijTDQw7As69E-ECJL0FXShMyUopHOTP/view?usp=share_link)
 
-- ⚡ Fun fact **Data scientists, the digital detectives, Uncovering hidden patterns, like digital forensics.**
+- ⚡ Fun fact **"Data scientists, the digital detectives, Uncovering hidden patterns, like digital forensics."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
