@@ -6,12 +6,11 @@
 
 <h3 style="text-align: justify;">
 Accomplished data science professional with a Master's degree in Data Science from The George Washington University. Experienced in predictive modeling, machine learning, and natural language processing, with proficiency in Python, R, SQL, and Tableau. 
-<span style="color: blue;">Demonstrated expertise in credit card churn analysis, supply chain management efficiency, and stock market predictions</span>, utilizing advanced techniques like LSTM, XGBoost, and ensemble methods. 
-<span style="color: green;">Adept at developing robust data visualizations and employing feature engineering for improved model accuracy.</span> 
-<span style="color: red;">Proven ability to handle large datasets, conduct geospatial and statistical analyses, and create interactive dashboards.</span> 
+**🔍 Demonstrated expertise in credit card churn analysis, supply chain management efficiency, and stock market predictions**, utilizing advanced techniques like LSTM, XGBoost, and ensemble methods. 
+**📊 Adept at developing robust data visualizations and employing feature engineering for improved model accuracy.**
+**🌐 Proven ability to handle large datasets, conduct geospatial and statistical analyses, and create interactive dashboards.**
 A collaborative team player with strong problem-solving skills, dedicated to driving strategic decision-making through insightful data analysis.
 </h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna-paila&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna-paila" /> </p>
 
