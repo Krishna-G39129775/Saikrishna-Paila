@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Data visualisation, Cloud Computing,Machine learning**
 
-- 👨‍💻 All of my projects are available at(In process....) [https://saikrishnapaila.com](https://saikrishnapaila.com)
+- 👨‍💻 All of my projects are available at [https://saikrishnapaila.com](https://saikrishnapaila.com)
 
 - 📫 How to reach me **saikrishna.paila@gwmail.gwu.edu**
 
